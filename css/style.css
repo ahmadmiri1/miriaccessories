@@ -1036,6 +1036,11 @@ textarea {
     display: none;
   }  
 }
+@media screen and (max-width: 1143px) {
+  .home-hero-img{
+    display: none;
+  }  
+}
 .home-hero-img{
   margin-left: 160px;
 }
