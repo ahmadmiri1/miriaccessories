@@ -1037,10 +1037,7 @@ textarea {
   }  
 }
 @media screen and (max-width: 1143px) {
-  .home-hero-img{
-    display: none;
-  }  
-  .map1{
+  .hidden-1143{
     display: none;
   }
 }
